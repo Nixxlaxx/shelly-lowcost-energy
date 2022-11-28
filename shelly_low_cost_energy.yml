@@ -11,4 +11,4 @@ nordpol_area: SE?
 #     minimum_hours: 3  # Minimum numbers of the controlled hours to turn on
 #     always_on_hours: [2, 3, 4, 5]  # Hours to always turn on the device
 #     always_on_when_price_below: 20  # Always turn on the device when price is below this (ÖRE)
-#     shelly_id: <SHELLY ID>  # ID of the shelly device
+#     shelly_id: <7c87ce55edb0>  # ID of the shelly device
